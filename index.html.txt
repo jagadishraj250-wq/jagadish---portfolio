@@ -100,8 +100,8 @@
 
     <section>
         <h2>Contact</h2>
-        <p><b>Email:</b> muddalajagadish@gmail.com</p>
-        <p><b>Mobile:</b> +91 8886074406</p>
+        <p><b>Email:</b> jagadishraj250@gmail.com</p>
+        <p><b>Mobile:</b> +91 7989595009</p>
         <p><b>Languages:</b> English, Telugu, Hindi</p>
     </section>
 
@@ -111,3 +111,4 @@
 
 </body>
 </html>
+
